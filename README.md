@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Khánh</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+APIs" />
-</p>
+<h3 align="center">Java Backend Developer</h3>
 
 ---
 
@@ -16,28 +13,24 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Booking System
-- RESTful API for booking management  
-- 🔐 JWT Authentication + Role-based Authorization  
-- 📦 Clean Architecture (Controller - Service - Repository)  
-
-👉 https://github.com/mkhanh712/booking-system  
-
----
-
 ### 🔹 E-commerce Backend
-- Backend for online shopping system  
-- 🛒 Order, Product, User management  
-- ⚡ Optimized queries with JPA  
+- Backend for an online shopping system  
+- Features:
+  - 🛒 Product, Category, Cart, Order management  
+  - 🔐 Authentication & Authorization (JWT, Spring Security, BCrypt)  
+  - 📦 Shopping cart & order processing workflow  
+  - ⚡ Pagination, filtering & optimized queries (JPA)  
+- Tech: Java, Spring Boot, Spring Security, JWT, MySQL, JPA (Hibernate), REST APIs  
+- Architecture: Layered Architecture (Controller - Service - Repository), DTO pattern, Global Exception Handling  
 
-👉 https://github.com/mkhanh712/ecommerce-backend  
+👉 [View Repository](https://github.com/mkhanh712/e-commerce-backend)
 
 ---
 
@@ -57,10 +50,9 @@
 ---
 
 ## 📫 Contact
-<p align="center">
-  <a href="mailto:duongminhkhanh1207@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/minh-kh%C3%A1nh-a966b2378/">LinkedIn</a> •
-  <a href="https://github.com/mkhanh712">GitHub</a>
-</p>
+- 📧 Email: [duongminhkhanh1207@gmail.com](mailto:duongminhkhanh1207@gmail.com)  
+- 💼 LinkedIn: [Minh Khánh](https://www.linkedin.com/in/minh-kh%C3%A1nh-a966b2378/)  
+- 💻 GitHub: [mkhanh712](https://github.com/mkhanh712)  
+- 👥 Facebook: [Khánh Minh](https://www.facebook.com/minh.khanh120702/)  
 
 ---
